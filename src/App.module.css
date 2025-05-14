@@ -1,6 +1,32 @@
-.tittle{
-    font-family: Arial, Helvetica, sans-serif;
+.menu{
     width: 100%;
-    text-align: center;
-    margin-top: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2vw;
+    font-size: 1.4rem;
+    height: 50px;
+    background-color: var(--green);
+    color: var(--dark);
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: rgba(154, 213, 15, 0.671) 0px 3px 8px;
+}
+
+.s1{
+    height: 100vh;
+    padding-top: 50px;
+}
+.s2{
+    height: 100vh;
+    padding-top: 50px;
+}
+.s3{
+    height: 100vh;
+    padding-top: 50px;
+}
+.s4{
+    height: 100vh;
+    padding-top: 50px;
 }
