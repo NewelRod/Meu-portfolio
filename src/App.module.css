@@ -14,19 +14,7 @@
     box-shadow: rgba(154, 213, 15, 0.671) 0px 3px 8px;
 }
 
-.s1{
-    height: 100vh;
-    padding-top: 50px;
-}
-.s2{
-    height: 100vh;
-    padding-top: 50px;
-}
-.s3{
-    height: 100vh;
-    padding-top: 50px;
-}
-.s4{
+.s1, .s2, .s3, .s4 {
     height: 100vh;
     padding-top: 50px;
 }
